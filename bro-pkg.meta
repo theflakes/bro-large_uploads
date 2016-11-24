@@ -1,2 +1,4 @@
 [package]
-version = 0.0.1
+description = Raise notices on outgoing files over X bytes in size.
+  Also raise notices for multiple large outgoing Tx's in Y time frame.
+tags = notices, uploads, conns
